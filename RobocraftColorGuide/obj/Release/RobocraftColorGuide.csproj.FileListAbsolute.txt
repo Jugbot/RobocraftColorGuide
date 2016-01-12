@@ -1,0 +1,14 @@
+E:\RobocraftColorGuide\RobocraftColorGuide\bin\Release\RobocraftColorGuide.exe.config
+E:\RobocraftColorGuide\RobocraftColorGuide\bin\Release\RobocraftColorGuide.exe
+E:\RobocraftColorGuide\RobocraftColorGuide\bin\Release\RobocraftColorGuide.pdb
+E:\RobocraftColorGuide\RobocraftColorGuide\obj\Release\MainWindow.g.cs
+E:\RobocraftColorGuide\RobocraftColorGuide\obj\Release\App.g.cs
+E:\RobocraftColorGuide\RobocraftColorGuide\obj\Release\RobocraftColorGuide_MarkupCompile.cache
+E:\RobocraftColorGuide\RobocraftColorGuide\obj\Release\RobocraftColorGuide_MarkupCompile.lref
+E:\RobocraftColorGuide\RobocraftColorGuide\obj\Release\MainWindow.baml
+E:\RobocraftColorGuide\RobocraftColorGuide\obj\Release\RobocraftColorGuide.g.resources
+E:\RobocraftColorGuide\RobocraftColorGuide\obj\Release\RobocraftColorGuide.Properties.Resources.resources
+E:\RobocraftColorGuide\RobocraftColorGuide\obj\Release\RobocraftColorGuide.csproj.GenerateResource.Cache
+E:\RobocraftColorGuide\RobocraftColorGuide\obj\Release\RobocraftColorGuide.exe
+E:\RobocraftColorGuide\RobocraftColorGuide\obj\Release\RobocraftColorGuide.pdb
+E:\RobocraftColorGuide\RobocraftColorGuide\obj\Release\RobocraftColorGuide.csprojResolveAssemblyReference.cache
